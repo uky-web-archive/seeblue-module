@@ -1,0 +1,4 @@
+name = See Blue Custom
+description = Various helper functions for seeblue theme
+core = 7.x
+files[] = sb.module
